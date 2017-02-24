@@ -1,0 +1,18 @@
+{
+  "name": "myraxes",
+  "version": "1.0.0",
+  "description": "A NoSQL database running on Node.js",
+  "main": "djengah.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NoSQL",
+    "DB"
+  ],
+  "author": "Armen Vardanyan",
+  "license": "MIT",
+  "dependencies": {
+    "JSONStream": "^1.3.0"
+  }
+}
